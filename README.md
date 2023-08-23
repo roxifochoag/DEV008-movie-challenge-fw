@@ -58,7 +58,7 @@ los que trabajes.
 
 ## 3. Consideraciones generales
 
-- Este proyecto se debe resolver en equipos de 3 personas como máximo.
+- Este proyecto se puede desarrollar  individual o en duplas.
 - Debes elegir y sustentar qué problema o necesidad estás resolviendo con el
   producto que estás diseñando y desarrollando.
 - Debes utilizar los datos de la API de
